@@ -1,0 +1,12 @@
+# Non-project file
+__pycache__
+.vscode
+
+# The file itself
+DISK*.ROM
+SIZES*.ROM
+
+# Output
+out
+out_*
+not_in_archive.txt
